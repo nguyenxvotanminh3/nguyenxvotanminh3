@@ -20,4 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenxvotanminh3&show_icons=true&locale=en&theme=tokyonight" alt="nguyenxvotanminh3" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenxvotanminh3&&theme=tokyonight" alt="nguyenxvotanminh3" /></p>
+
 
