@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Minh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenxvotanminh3&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenxvotanminh3" /> </p>
 
 
 - 🌱 I’m currently working **SpringBoot, Hibernate, Angular, MySql, PostgreSql,...**
