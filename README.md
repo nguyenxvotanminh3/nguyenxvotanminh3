@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Minh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Floading-gifs&psig=AOvVaw2wCM-yabOcdiGFKsFI8DOA&ust=1689997269785000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPilicbwnoADFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F603552787565330354%2F&psig=AOvVaw3oL7b0LYsfCobA0noakadq&ust=1689998104783000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjertTznoADFQAAAAAdAAAAABAR">
 
 
 - 🌱 I’m currently working **SpringBoot, Hibernate, Angular, MySql, PostgreSql,...**
