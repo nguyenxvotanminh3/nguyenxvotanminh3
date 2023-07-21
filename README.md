@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/nvtanminh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nguyenxvotanminh3/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguyenxvotanminh3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nvtanminh/" target="blank"><img align="center" src="https://instagram.fsgn2-6.fna.fbcdn.net/v/t51.2885-19/358373851_3481433138795999_1920160706799332705_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fsgn2-6.fna.fbcdn.net&_nc_cat=111&_nc_ohc=yrdaYouwTRQAX9PDHbM&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfASsuNZ8NKqrISYy0Al_i1bLEf5pNdzj1O8suYEMKaUGg&oe=64BEDE60&_nc_sid=8b3546" alt="nguyenxvotanminh3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
