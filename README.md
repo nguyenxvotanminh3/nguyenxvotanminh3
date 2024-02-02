@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://w7.pngwing.com/pngs/51/881/png-transparent-programmer-source-code-computer-computer-computer-program-computer-programming-thumbnail.png" alt="nguyenxvotanminh3" /> </p>
 
 
-- 🌱 I’m currently working **SpringBoot, Hibernate, Angular, MySql, PostgreSql,...**
+- 🌱 I’m currently working **Java, JavaScript, C# , Python....**
 
 - 📫 How to reach me **lop123thcs@gmail.com**
 
