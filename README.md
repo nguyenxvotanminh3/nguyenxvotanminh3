@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="(https://cdn-icons-png.flaticon.com/512/1802/1802977.png)">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=nguyenxvotanminh3&label=Profile%20views&color=0e75b6&style=flat](https://w7.pngwing.com/pngs/51/881/png-transparent-programmer-source-code-computer-computer-computer-program-computer-programming-thumbnail.png](https://cdn-icons-png.flaticon.com/512/1802/1802977.png)" alt="nguyenxvotanminh3" /> </p>
+<p align="left"> <img src="https://w7.pngwing.com/pngs/51/881/png-transparent-programmer-source-code-computer-computer-computer-program-computer-programming-thumbnail.png" alt="nguyenxvotanminh3" /> </p>
 
 
 - 🌱 I’m currently working **SpringBoot, Hibernate, Angular, MySql, PostgreSql,...**
