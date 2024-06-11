@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working **Java, JavaScript, C# , Python....**
 
-- 📫 How to reach me **lop123thcs@gmail.com**
+- 📫 How to reach me **worknguyenvotanminh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
