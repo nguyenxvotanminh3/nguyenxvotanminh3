@@ -6,11 +6,13 @@ I'm excited to connect and share my passion for backend development!
 
 **Skills and Technologies:**
 
-* **Programming Languages:** Java, JavaScript, Python
-* **Frameworks & Libraries:** Spring
-* **Cloud Platforms:** AWS
-* **DevOps Tools:** Docker, Git
-* **Other:** TypeScript, GraphQL (Open to learning more!)
+Programming Languages: Java, JavaScript, Python
+Frameworks & Libraries: Spring, Angular
+Cloud Platforms: AWS
+DevOps Tools: Docker, Git, K8s
+Databases: MySQL, MongoDB, PostgreSQL
+Cache: Redis
+Other: TypeScript, GraphQL (Open to learning more!)
 
 **Connect with me:**
 
@@ -19,7 +21,7 @@ I'm excited to connect and share my passion for backend development!
 
 ** My GitHub Stats:**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinT2104&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_border=true)](https://github.com/MinT2104)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenxvotanminh3&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_border=true)](https://github.com/nguyenxvotanminh3)
 
 
 **Let's collaborate!**
