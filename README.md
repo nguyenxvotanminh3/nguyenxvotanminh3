@@ -28,7 +28,7 @@ I'm excited to connect and share my passion for backend development!
 
 ** My GitHub Stats:**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenxvotanminh3&show_icons=true&count_private=true&hide=prs&theme=radiacal&hide_border=true)](https://github.com/nguyenxvotanminh3)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenxvotanminh3&show_icons=true&count_private=true&hide=prs&theme=synthwave&hide_border=true)](https://github.com/nguyenxvotanminh3)
 
 
 **Let's collaborate!**
