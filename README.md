@@ -14,16 +14,13 @@ I'm excited to connect and share my passion for backend development!
 
 **Connect with me:**
 
-* **LinkedIn:** [Minh Nguyen](https://www.linkedin.com/in/minh-nguyen/)
+
 * **Email:** worknguyenvotanminh@gmail.com (Feel free to reach out!)
 
 ** My GitHub Stats:**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinT2104&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_border=true)](https://github.com/MinT2104)
 
-**My Contributions:**
-
-* (Optional: List your projects or contributions here to showcase your work)
 
 **Let's collaborate!**
 
