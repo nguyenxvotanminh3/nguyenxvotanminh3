@@ -6,13 +6,20 @@ I'm excited to connect and share my passion for backend development!
 
 **Skills and Technologies:**
 
-Programming Languages: Java, JavaScript, Python
-Frameworks & Libraries: Spring, Angular
-Cloud Platforms: AWS
-DevOps Tools: Docker, Git, K8s
-Databases: MySQL, MongoDB, PostgreSQL
-Cache: Redis
-Other: TypeScript, GraphQL (Open to learning more!)
+
+* Programming Languages: Java, JavaScript, Python
+
+* Frameworks & Libraries: Spring
+
+* Cloud Platforms: AWS
+
+* DevOps Tools: Docker, Git
+
+* Databases: MySQL, MongoDB, PostgreSQL
+
+* Cache: Redis
+
+* Other: TypeScript, GraphQL (Open to learning more!)
 
 **Connect with me:**
 
