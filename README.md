@@ -1,64 +1,30 @@
-[![MasterHead](https://media.giphy.com/media/1aW39urvc4gTWg9Tjy/giphy.gif)](https://www.linkedin.com/in/minh-nguyen/)
+## Hi there , I'm Minh Nguyen
 
-<h1 align="center">Hi there 👋, I'm Minh Nguyen</h1>
-<h3 align="center">A Passionate Backend Developer from Vietnam</h3>
+**A Passionate Backend Developer from Vietnam**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsXPoe6KTuikXgE/giphy.gif" alt="Coding" width="400" />
-</p>
+I'm excited to connect and share my passion for backend development!
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+**Skills and Technologies:**
 
-<p align="center">
-  <a href="mailto:worknguyenvotanminh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-worknguyenvotanminh@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+* **Programming Languages:** Java, JavaScript, Python
+* **Frameworks & Libraries:** Spring
+* **Cloud Platforms:** AWS
+* **DevOps Tools:** Docker, Git
+* **Other:** TypeScript, GraphQL (Open to learning more!)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/minh-nguyen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/nvtanminh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+**Connect with me:**
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="40" height="40"/>
-  </a>
-</p>
+* **LinkedIn:** [Minh Nguyen](https://www.linkedin.com/in/minh-nguyen/)
+* **Email:** worknguyenvotanminh@gmail.com (Feel free to reach out!)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinT2104&theme=tokyonight&hide_border=true" alt="MinT2104"/>
-</p>
+** My GitHub Stats:**
 
-<h3 align="center">🚀 My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinT2104&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_border=true" alt="MinT2104"/>
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinT2104&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_border=true)](https://github.com/MinT2104)
+
+**My Contributions:**
+
+* (Optional: List your projects or contributions here to showcase your work)
+
+**Let's collaborate!**
+
+I'm always eager to learn and grow as a developer. Feel free to connect with me or explore my projects on GitHub. 
