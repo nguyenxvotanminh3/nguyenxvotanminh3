@@ -1,6 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/1aW39urvc4gTWg9Tjy/giphy.gif)](https://www.linkedin.com/in/minh-nguyen/)
-
-<h1 align="center">Hi there 👋, I'm Minh Nguyen</h1>
+[![MasterHead](https://media.giphy.com/media/YOUR_ANIMATION_URL/giphy.gif)](<https://www.linkedin.com/in/minh-nguyen/)>  <h1 align="center">Hi there , I'm Minh Nguyen</h1>
 <h3 align="center">A Passionate Backend Developer from Vietnam</h3>
 
 <p align="center">
@@ -29,7 +27,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Technologies:</h3>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" width="40" height="40"/>
@@ -42,23 +40,3 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinT2104&theme=tokyonight&hide_border=true" alt="MinT2104"/>
-</p>
-
-<h3 align="center">🚀 My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinT2104&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_border=true" alt="MinT2104"/>
-</p>
