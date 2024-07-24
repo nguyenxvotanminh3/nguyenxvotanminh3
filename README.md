@@ -29,7 +29,8 @@ I'm excited to connect and share my passion for backend development!
 ** My GitHub Stats:**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenxvotanminh3&show_icons=true&count_private=true&hide=prs&theme=synthwave&hide_border=true)](https://github.com/nguyenxvotanminh3)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenxvotanminh3&layout=donut)](https://github.com/nguyenxvotanminh3/github-readme-stats)
+*
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenxvotanminh3)](https://github.com/nguyenxvotanminh3/github-readme-stats)
 
 **Let's collaborate!**
 
