@@ -33,4 +33,9 @@ I'm excited to connect and share my passion for backend development!
 
 **Let's collaborate!**
 
+
+https://github.com/user-attachments/assets/5cbb3b81-caea-4a22-853a-abf57e718d95
+
+
+
 I'm always eager to learn and grow as a developer. Feel free to connect with me or explore my projects on GitHub. 
